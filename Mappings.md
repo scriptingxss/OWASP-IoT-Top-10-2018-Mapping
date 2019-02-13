@@ -1,4 +1,5 @@
-OWASP IoT TOp 10 2014
+OWASP IoT Top 10 2014
+
 |  **OWASP IoT Top 10 2014** | **OWASP IoT Top 10 2018** |
 | --- | --- |
 |  **I1 Insecure Web Interface** | **I3 Insecure Ecosystem Interfaces** |
@@ -11,6 +12,9 @@ OWASP IoT TOp 10 2014
 |  **I8 Insufficient Security Configurability** | **I9 Insecure Default Settings** |
 |  **I9 Insecure Software/Firmware** | **I4 Lack of Secure Update Mechanism<br/><br/>I5 Use of Insecure or Outdated Components** |
 |  **I10 Poor Physical Security** | **I10 Lack of Physical Hardening** |
+
+
+
 
 Code of Practice
 
