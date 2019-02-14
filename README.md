@@ -1,8 +1,6 @@
 The OWASP IoT Mapping Project is intended to provide a mapping of the OWASP IoT Top 10 2018 to industry publications and sister projects. The goal is to assist with making the OWASP IoT Top 10 practical. As with all Top 10 lists, they should be used as a first step and expanded upon according to the applicable IoT ecosystem. Typically, lists have shortcomings that are unable to cover each aspect of an IoT environment. Each mapping may not have a 1 to 1 relation but will have similar recommendations and/or controls. 
 
-## Contributing
-If you feel a crucial mapping is missing, feel free to contribute by submitting a pull request, contact the project leaders, or join the [OWASP Slack Team](https://owasp.slack.com/) and look for us in the #iot-security channel
-
+***
 ### OWASP IoT Top 10 2018
 
 |                                                                                                                                                                            |                                                                                                                                                                                                                                                      | 
@@ -20,3 +18,5 @@ If you feel a crucial mapping is missing, feel free to contribute by submitting 
 | I10 Lack of Physical Hardening                                                                                                                                             | Lack of physical hardening measures, allowing potential attackers to gain sensitive information that can help in a future remote attack or take local control of the device.                                                                         | 
 
 
+## Contributing
+If you feel a crucial mapping is missing, feel free to contribute by submitting a pull request, contact the project leaders, or join the [OWASP Slack Team](https://owasp.slack.com/) and look for us in the #iot-security channel
