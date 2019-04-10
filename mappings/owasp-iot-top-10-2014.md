@@ -2,7 +2,7 @@
 
 
 
-| **OWASP IoT Top 10 2014** | **OWASP IoT Top 10 2018 Mapping** |
+| \*\*\*\*[**OWASP IoT Top 10 2014**](https://www.owasp.org/index.php/Top_10_IoT_Vulnerabilities_%282014%29) | \*\*\*\*[**OWASP IoT Top 10 2018 Mapping**](https://www.owasp.org/images/1/1c/OWASP-IoT-Top-10-2018-final.pdf)\*\*\*\* |
 | :--- | :--- |
 | **I1 Insecure Web Interface** | **I3 Insecure Ecosystem Interfaces** |
 | **I2 Insufficient Authentication/Authorization** | **I1 Weak, Guessable, or Hardcoded Passwords**  **I9 Insecure Default Settings** |

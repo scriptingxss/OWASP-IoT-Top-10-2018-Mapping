@@ -2,7 +2,7 @@
 
 
 
-| [**Code of Practice \(UK Government\)**](https://www.gov.uk/government/publications/secure-by-design/code-of-practice-for-consumer-iot-security%20%20%20%20) | **Description** | **OWASP IoT Top 10 Mapping** |
+| [**Code of Practice \(UK Government\)**](https://www.gov.uk/government/publications/secure-by-design/code-of-practice-for-consumer-iot-security%20%20%20%20) | **Description** | \*\*\*\*[**OWASP IoT Top 10 Mapping**](https://www.owasp.org/images/1/1c/OWASP-IoT-Top-10-2018-final.pdf)\*\*\*\* |
 | :--- | :--- | :--- |
 | **1. No default passwords** | All IoT device passwords shall be unique and not resettable to any universal factory default value | **I1 Weak, Guessable, or Hardcoded Passwords** |
 | **2. Implement a vulnerability disclosure policy** | All companies that provide internet-connected devices and services shall provide a public point of contact as part of a vulnerability disclosure policy in order that security researchers and others are able to report issues. Disclosed vulnerabilities should be acted on in a timely manner. | **N/A** |
