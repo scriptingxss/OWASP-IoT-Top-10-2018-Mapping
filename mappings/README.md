@@ -1,12 +1,7 @@
 # Mappings
 
-[OWASP IoT Top 10 2014](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/mappings/owasp-iot-top-10-2014)
-
-[GSMA IoT Security Assessment Checklist](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/mappings/gsma-iot-security-assessment-checklist)
-
-[Code of Practice \(UK Government\)](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/mappings/code-of-practice)
-
-
-
-
+* [OWASP IoT Top 10 2014](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/mappings/owasp-iot-top-10-2014)
+* [GSMA IoT Security Assessment Checklist](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/mappings/gsma-iot-security-assessment-checklist)
+* [Code of Practice \(UK Government\)](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/mappings/code-of-practice)
+* [ENISA Baseline Security Recommendations for IoT](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/mappings/enisa-baseline-security-recommendations-for-iot)
 
