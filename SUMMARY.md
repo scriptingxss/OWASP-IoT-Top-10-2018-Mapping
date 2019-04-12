@@ -7,4 +7,5 @@
   * [Code of Practice for Consumer IoT Security](mappings/code-of-practice.md)
   * [ENISA Baseline Security Recommendations for IoT](mappings/enisa-baseline-security-recommendations-for-iot.md)
   * [CTIA Cybersecurity Certification Test Plan for IoT Devices](mappings/ctia-cybersecurity-certification-test-plan-for-iot-devices.md)
+  * [CSA IoT Controls Framework](mappings/csa-iot-controls-framework.md)
 
