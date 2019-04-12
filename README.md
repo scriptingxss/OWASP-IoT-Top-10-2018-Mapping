@@ -1,6 +1,6 @@
 # OWASP IoT Top 10 2018 Mapping Project
 
-The OWASP IoT Mapping Project is intended to provide a mapping of the OWASP IoT Top 10 2018 to industry publications and sister projects. The goal is to provide resources that enable practical uses for the OWASP IoT Top 10 . As with all Top 10 lists, they should be used as a first step and expanded upon according to the applicable IoT ecosystem. 
+The [OWASP IoT Mapping Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=OWASP_IoT_Top_10_2018_Mapping_Project) is intended to provide a mapping of the OWASP IoT Top 10 2018 to industry publications and sister projects. The goal is to provide resources that enable practical uses for the OWASP IoT Top 10 . As with all Top 10 lists, they should be used as a first step and expanded upon according to the applicable IoT ecosystem. 
 
 Mappings are structured with control categories, tests, or recommendations in the left column, descriptions in the middle column, and their mapping to the OWASP IoT Top 10 2018 list in the right column. Each mapping may not have a 1 to 1 relation; however, similar recommendations and/or controls are listed. For mappings that are not applicable to the IoT Top 10 2018 list, an "N/A" is provided as the mapping.
 
