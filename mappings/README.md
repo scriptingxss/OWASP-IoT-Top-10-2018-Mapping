@@ -8,3 +8,5 @@
 
   [for IoT Devices](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/mappings/ctia-cybersecurity-certification-test-plan-for-iot-devices) 
 
+* [CSA IoT Controls Framework](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/mappings/csa-iot-controls-framework)
+
