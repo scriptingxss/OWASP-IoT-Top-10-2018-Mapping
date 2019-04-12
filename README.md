@@ -2,7 +2,9 @@
 
 The OWASP IoT Mapping Project is intended to provide a mapping of the OWASP IoT Top 10 2018 to industry publications and sister projects. The goal is to provide resources that enable practical uses for the OWASP IoT Top 10 . As with all Top 10 lists, they should be used as a first step and expanded upon according to the applicable IoT ecosystem. 
 
-Mappings are structured with control categories, tests, or recommendations in the left column, descriptions in the middle column, and their mapping to the OWASP IoT Top 10 2018 list in the right column. Each mapping may not have a 1 to 1 relation; however, similar recommendations and/or controls are listed.
+Mappings are structured with control categories, tests, or recommendations in the left column, descriptions in the middle column, and their mapping to the OWASP IoT Top 10 2018 list in the right column. Each mapping may not have a 1 to 1 relation; however, similar recommendations and/or controls are listed. For mappings that are not applicable to the IoT Top 10 2018 list, an "N/A" is provided as the mapping.
+
+## OWASP IoT Top 10 2018
 
 ![](.gitbook/assets/2018iottop10.png)
 
@@ -21,5 +23,5 @@ Mappings are structured with control categories, tests, or recommendations in th
 
 ## Contributing
 
-If you feel a crucial mapping is missing, feel free to contribute by submitting a pull request, contact the project leaders, or join the [OWASP Slack Team](https://owasp.slack.com/) and look for us in the \#iot-security channel. 
+If a crucial mapping is missing or edits should be made, feel free to contribute by submitting a pull request, contact the project leaders, or join the [OWASP Slack Team](https://owasp.slack.com/) and look for us in the \#iot-security channel. 
 
