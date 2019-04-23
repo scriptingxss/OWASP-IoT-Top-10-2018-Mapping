@@ -54,7 +54,7 @@
         of occurrence.
         <br />&#x2022;Choose and implement risk mitigations for each potential security
         threat: actively mitigate, defer or accept the risk.&quot;</td>
-      <td style="text-align:left"><b>N/AI1 Weak, Guessable, or Hardcoded Passwords</b>
+      <td style="text-align:left"><b>N/A</b>
       </td>
     </tr>
     <tr>
