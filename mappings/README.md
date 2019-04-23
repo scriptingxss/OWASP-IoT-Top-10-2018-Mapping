@@ -9,5 +9,5 @@
   [for IoT Devices](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/mappings/ctia-cybersecurity-certification-test-plan-for-iot-devices) 
 
 * [CSA IoT Controls Framework](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/mappings/csa-iot-controls-framework)
-* ETSI Cyber Security for Consumer Internet of Things
+* [ETSI Cyber Security for Consumer Internet of Things](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/mappings/etsi-cyber-security-for-consumer-internet-of-things)
 
