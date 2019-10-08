@@ -1,7 +1,5 @@
 # OWASP IoT Top 10 2014
 
-
-
 <table>
   <thead>
     <tr>

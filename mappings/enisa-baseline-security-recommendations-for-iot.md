@@ -1,7 +1,5 @@
 # ENISA Baseline Security Recommendations for IoT
 
-
-
 | [**ENISA Baseline Security Recommendations for IoT**](https://www.enisa.europa.eu/publications/baseline-security-recommendations-for-iot/at_download/fullReport) | **Good Practices** | **Description** | [**OWASP IoT Top 10 Mapping**](https://www.owasp.org/images/1/1c/OWASP-IoT-Top-10-2018-final.pdf) |
 | :--- | :--- | :--- | :--- |
 | **4.1.1** | Security by Design | GP-PS-01: Consider the security of the whole IoT system from a consistent and holistic approach during its whole lifecycle across all levels of device/application design and development, integrating security throughout the development, manufacture, and deployment. GP-PS-02: Ensure the ability to integrate different security policies and techniques. GP-PS-03: Security must consider the risk posed to human safety. GP-PS-04: Designing for power conservation should not compromise security. GP-PS-05: Design architecture by compartments to encapsulate elements in case of attacks. GP-PS-06: For IoT hardware manufacturers and IoT software developers it is necessary to implement test plans to verify whether the product performs as it is expected. Penetration tests help to identify malformed input handling, authentication bypass attempts and overall security posture. GP-PS-07: For IoT software developers it is important to conduct code review during implementation as it helps to reduce bugs in a final version of a product. | **N/A** |

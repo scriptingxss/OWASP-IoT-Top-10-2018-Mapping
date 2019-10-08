@@ -1,7 +1,5 @@
 # CTIA Cybersecurity Certification Test Plan for IoT Devices
 
-
-
 | [**CTIA Cybersecurity Certification Test Plan** **for IoT Devices** ](https://api.ctia.org/wp-content/uploads/2018/10/CTIA-IoT-Cybersecurity-Certification-Test-Plan-V1_0_1.pdf) | **Description \(Purpose\)** | [**OWASP IoT Top 10 Mappping**](https://www.owasp.org/images/1/1c/OWASP-IoT-Top-10-2018-final.pdf) |
 | :--- | :--- | :--- |
 | **1 Terms of Service and Privacy Policies Test** | Device Terms of Service and privacy policy are readily available. The Terms of Service cover “end of life” for the device. | **I6 Insufficient Privacy Protection** |

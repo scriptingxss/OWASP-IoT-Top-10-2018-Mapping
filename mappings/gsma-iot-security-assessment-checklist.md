@@ -1,7 +1,5 @@
 # GSMA IoT Security Assessment Checklist
 
-
-
 | [**GSMA IoT Security Assessment Checklist**](https://www.gsma.com/iot/iot-security-assessment/) | **Description** | \*\*\*\*[**OWASP IoT Top 10 Mapping**](https://www.owasp.org/images/1/1c/OWASP-IoT-Top-10-2018-final.pdf)\*\*\*\* |
 | :--- | :--- | :--- |
 | **CLP11\_5** | 11.5 Risk Assessments | **N/A** |

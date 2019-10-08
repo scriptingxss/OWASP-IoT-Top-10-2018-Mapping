@@ -1,7 +1,5 @@
 # ETSI Cyber Security for Consumer Internet of Things
 
-
-
 | [**ETSI Cyber Security for Consumer Internet of Things** ](https://www.etsi.org/deliver/etsi_ts/103600_103699/103645/01.01.01_60/ts_103645v010101p.pdf) | **Description** | \*\*\*\*[**OWASP IoT Top 10 Mapping**](https://www.owasp.org/images/1/1c/OWASP-IoT-Top-10-2018-final.pdf) |
 | :--- | :--- | :--- |
 | **4.1** | No universal default passwords | **I1 Weak, Guessable, or Hardcoded Passwords** |

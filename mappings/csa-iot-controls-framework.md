@@ -1,7 +1,5 @@
 # CSA IoT Controls Framework
 
-
-
 <table>
   <thead>
     <tr>

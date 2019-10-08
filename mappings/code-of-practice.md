@@ -1,7 +1,5 @@
 # Code of Practice for Consumer IoT Security
 
-
-
 <table>
   <thead>
     <tr>
