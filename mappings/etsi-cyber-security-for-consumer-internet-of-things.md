@@ -8,7 +8,7 @@
 | **4.4** | Securely store credentials and security-sensitive data | **I1 Weak, Guessable, or Hardcoded Passwords**  **I7 Insecure Data Transfer and Storage** |
 | **4.5** | Communicate securely | **I7 Insecure Data Transfer and Storage** |
 | **4.6** | Minimize exposed attack surfaces | **I1 Weak, Guessable, or Hardcoded Passwords**  **I2 Insecure Network Services**  **I3 Insecure Ecosystem Interfaces**  **I5 Use of Insecure or Outdated Components**  **I9 Insecure Default Settings**  **I10 Lack of Physical Hardening** |
-| **4.7** | Ensure software integrity | **I4 Lack of Secure Update Mechanism** |
+| **4.7** | Ensure software integrity | **I8 Lack of Device Management** **I10 Lack of Physical Hardening** |
 | **4.8** | Ensure that personal data is protected | **I6 Insufficient Privacy Protection** |
 | **4.9** | Make systems resilient to outages | **N/A** |
 | **4.10** | Examine system telemetry data | **I8 Lack of Device Management** |
